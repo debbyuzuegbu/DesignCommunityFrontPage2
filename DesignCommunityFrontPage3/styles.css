@@ -1,0 +1,123 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background: url(./mesut-kaya-eOcyhe5-9sQ-unsplash\ 1.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0%;
+  padding: 0%;
+  color: white;
+}
+
+input {
+  background-color: #f6f6f6;
+  color: #666666;
+  font-weight: 400;
+  border-radius: 16px;
+  border: 1px solid rgba(102, 102, 102, 0.35);
+  width: 60px;
+  height: 24px;
+}
+
+.header {
+  width: 99vw;
+  height: 30px;
+  background-color: white;
+  display: flex;
+  padding: 8px;
+}
+
+.next-section {
+  box-sizing: border-box;
+  width: 480px;
+  padding: 50px;
+  margin-top: 60px;
+}
+
+.apple-logo {
+  width: 120px;
+  height: 50px;
+  background-color: black;
+  color: white;
+  margin: 24px;
+  margin-left: 4px;
+}
+
+.playstore-logo {
+  width: 120px;
+  height: 50px;
+  background-color: black;
+  color: white;
+  margin-left: 4px;
+  margin: 24px;
+}
+
+.page {
+  margin-top: 0px;
+}
+
+.sign-up-btn {
+  height: 50px;
+  width: 200px;
+  color: white;
+  background-color: #00c0a6;
+  border: none;
+  border-radius: 50px;
+}
+
+.main-btn {
+  display: flex;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.fan {
+  padding-right: 10px;
+}
+span {
+  font-size: 10px;
+}
+
+.Home {
+  margin-right: 4px;
+}
+
+.Web-d {
+  margin-right: 4px;
+}
+.Mobile {
+  margin-right: 4px;
+}
+
+.right-menubar {
+  margin-left: 10px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 14px
+}
+.right-menubar > ul {
+  list-style: none;
+  display: flex;
+  color: black;
+}
+.left-menubar {
+  display: flex;
+  flex-direction: row-reverse;
+  margin-left: 680px;
+}
+
+.sign-btn {
+  margin-left: 8px;
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 6px;
+}
+
+.up-btn {
+  margin-left: 8px;
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 6px;
+}
