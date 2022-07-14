@@ -1,0 +1,135 @@
+body {
+  max-width: 100%;
+  max-height: 100%;
+  margin: 0%;
+  padding: 0%;
+  font-family: "Poppins", sans-serif;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.main-body {
+  background: url(./unsplash_LpbyDENbQQg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+.menu-bar {
+  display: flex;
+  flex-direction: row-reverse;
+  padding: 16px 0;
+  background-color: white;
+}
+
+/* .second-section {
+  background: url(./unsplash_LpbyDENbQQg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  width: 100%;
+  height: 100vh;
+
+  
+} */
+
+.post {
+  width: 700px;
+  /* height: 450px; */
+  border-style: solid;
+  border-radius: 10%;
+  margin-left: 30px;
+  /* margin-bottom: 30px; */
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 0.3);
+  border: none;
+  padding: 20px 36px;
+  position: absolute;
+  top: 25%
+}
+
+.search-icon{
+  position: relative;
+}
+
+.d-icon{
+  position: relative;
+  right: 80%;
+  display: inline;
+}
+
+.main {
+  margin-top: 90px;
+  margin-bottom: 0px;
+}
+
+.head {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.paragraph-t{
+  margin-bottom: 36px;
+  text-align: justify;
+  
+  
+}
+
+.sign-btn {
+  background-color: black;
+  color: white;
+  margin-left: 10px;
+  margin-right: 20px;
+  border-radius: 4px;
+  padding: 4px 8px;
+}
+
+.log-btn {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 4px 8px;
+}
+
+.lang-btn {
+  background-color: white;
+  color: black;
+  border: none;
+}
+
+.search-input {
+  background-color: #f6f6f6;
+  color: rgb(146, 144, 144);
+  border: 1px solid #666666;
+  border-radius: 16px;
+  width: 50px;
+  padding: 8px 24px;
+  margin-left: 10px;
+  margin-right: 20px;
+  
+}
+
+.main-input {
+  width: 500px;
+  height: 30px;
+  background-color: rgba(255, 255, 255, 0.25);
+  border: 1px solid rgb(139, 136, 136);
+  border-radius: 8px;
+  padding: 4px 16px;
+}
+
+.lab-btn {
+  display: flex;
+}
+
+.main-ttn {
+  border-radius: 50px;
+  height: 40px;
+  width: 100px;
+  margin-bottom: 40px;
+  box-sizing: border-box;
+  padding: 4px 16px;
+}
