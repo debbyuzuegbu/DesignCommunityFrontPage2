@@ -1,0 +1,36 @@
+body {
+  background: url(./Rectangle\ 5.jpg);
+  font-family: 'Poppins', sans-serif;
+}
+.main {
+  background: url(./simon-lee-XX5RQgTuD8o-unsplash\ 1.jpg);
+}
+.part {
+  background-color: white;
+  width: 100vh;
+  height: 70vh;
+  position: absolute;
+  border: 1px solid rgba(102, 102, 102, 0.35);
+  border-radius: 24px;
+  padding: 24px;
+}
+.int {
+  display: flex;
+}
+
+.checkboxPB {
+  display: flex;
+}
+
+button {
+  background: #111111;
+  opacity: 0.25;
+  border-radius: 32px;
+  width: 534px;
+  height: 35px;
+  color: #FFFFFF;
+  font-weight: 400;
+  text-align: center;
+
+
+}
